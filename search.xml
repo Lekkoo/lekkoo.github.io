@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Hello World]]></title>
+      <url>/2017/08/28/hello-world/</url>
+      <content type="html"><![CDATA[<pre class=" language-php"><code class="language-php"><span class="token delimiter">&lt;?php</span><span class="token function">info</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span><span class="token delimiter">?></span>
+</code></pre>
+<p><img src="/images/15039022147807.jpg" alt=""></p>
+]]></content>
+      
+        
+    </entry>
+    
+  
+  
+    
+    <entry>
+      <title><![CDATA[timeline]]></title>
+      <url>/timeline/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[友情链接]]></title>
+      <url>/links/index.html</url>
+      <content type="html"></content>
+    </entry>
+    
+  
+</search>
